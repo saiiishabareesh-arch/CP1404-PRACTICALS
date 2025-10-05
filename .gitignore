@@ -1,0 +1,17 @@
+# PyCharm project files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Temporary files
+*.log
