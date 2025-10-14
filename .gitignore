@@ -15,3 +15,12 @@ Thumbs.db
 
 # Temporary files
 *.log
+
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.venv/
+venv/
+dist/
+build/
